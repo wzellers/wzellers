@@ -13,6 +13,6 @@ MATH 381: Learning discrete mathematics to apply knowledge to different projects
 
 ### Tools and Programming Languages
 **Java**: Currently working on a personal project, _FitFinder_, in java. The program asks the user for the clothing items and color combination preferences and uses this information to generate an outfit tailored to the user.
-**Python**
+\n**Python**
 **Git**
 **Docker** 

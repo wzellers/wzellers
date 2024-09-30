@@ -8,11 +8,16 @@ I am skilled at working with and collaborating with a team of like-minded indivi
 
 ### Classes
 COMP 110: Learning the basics of programming in python
+
 COMP 290: Working with and builiding skills in different programs such as Docker and Git 
+
 MATH 381: Learning discrete mathematics to apply knowledge to different projects 
 
 ### Tools and Programming Languages
 **Java**: Currently working on a personal project, _FitFinder_, in java. The program asks the user for the clothing items and color combination preferences and uses this information to generate an outfit tailored to the user.
-\n**Python**
+
+**Python**
+
 **Git**
+
 **Docker** 

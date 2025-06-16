@@ -1,23 +1,6 @@
-## Hi there 👋
-
-## About Me
-I am currently a freshman at the University of North Carolina at Chapel Hill majoring in Computer Science and Applied Mathematics. I plan on becoming a software engineer and I want use my skills in program development to help people in a multitude of new and technological ways. 
-
-## Skills
-I am skilled at working with and collaborating with a team of like-minded individuals as well as people who have differing views. I am able to communicate with other teammembers to make sure everyone is on the same page and understands the overall goal of the project. I can also adapt to new situations and still be effective.
-
-### Classes
-COMP 110: Learning the basics of programming in python
-
-COMP 290: Working with and builiding skills in different programs such as Docker and Git 
-
-MATH 381: Learning discrete mathematics to apply knowledge to different projects 
-
-### Tools and Programming Languages
-**Java**: Currently working on a personal project, _FitFinder_, in java. The program asks the user for the clothing items and color combination preferences and uses this information to generate an outfit tailored to the user.
-
-**Python**
-
-**Git**
-
-**Docker** 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=wzellers&show_icons=true&hide_rank=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=wzellers&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wzellers&theme=darcula&hide_border=true&background=FFFFFF00">  
+  
+</p>

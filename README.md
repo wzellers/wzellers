@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About Me:
 
-🌱 CS + Stats @ UNC Chapel Hill & SWE Intern @ Truist<br>
+🌱 CS + Stats @ UNC Chapel Hill | SWE Intern @ Truist<br>
 🔷 Fun fact: I'm a huge Chelsea FC fan
 
 
